@@ -27,7 +27,7 @@ I am an ambitious developer from Czechia focused on complete web development and
 ## Current Projects
 
 <details open>
-<summary><b>SwimTiming - SaaS for Swimming Competitions<br>
+<summary><b><a href="https://github.com/altuux/SwimTiming">SwimTiming - SaaS for Swimming Competitions</a><br>
 <a href="https://github.com/altuux/SwimTiming-WebClient">SwimTiming-Web</a>
 </b></summary>
 A complete system for digitalization and live broadcast of results from swimming competitions for spectators and parents.
